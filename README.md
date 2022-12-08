@@ -17,7 +17,7 @@ I'm a newly certified software developer with a particular focus on Apple Platfo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="25" height="25"/>
 </p>
 
-<h4> Tools + Tech: </h4>
+<h4> Tools + Technologies: </h4>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="25" height="25"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="25" height="25"/>
