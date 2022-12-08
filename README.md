@@ -1,5 +1,5 @@
 <h2> Hello! I'm Anna. </h2>
-<h3> A little about me... </h3>
+<h3> A little bit about me... </h3>
 
 I'm a newly certified software developer with a particular focus on Apple Platforms - iOS/macOS. You can find me creating new passion projects, contributing to Open Source here on Github, and frequenting new coffee shops in Dallas.
 
