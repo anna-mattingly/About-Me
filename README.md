@@ -1,12 +1,12 @@
 <h2> Hello! I'm Anna. </h2>
 <h3> A little bit about me... </h3>
 
-I'm a newly certified software developer with a particular focus on Apple Platforms - iOS/macOS. You can find me creating new passion projects, contributing to Open Source here on Github, and frequenting new coffee shops in Dallas.
+I'm a newly certified software developer with a particular interest in Apple Platforms - iOS/macOS. You'll find me contributing to Open Source here on Github, working on personal projects, riffling through [r/learnprogramming](https://www.reddit.com/r/learnprogramming/) finding something new to learn, reading articles at [Hacker News](https://news.ycombinator.com/), and frequenting coffee shops around Dallas.
 
-- Currently working on all things Apple - iOS, macOS, watchOS, tvOS
-- I’m currently learnin code anything I can get my hands on!
+- Currently working on all things Apple - iOS/macOS
+- Learning anything I can get my hands on!
 - Always looking to collaborate
-- Ask me about all thing iOS
+- Ask me about all things iOS
 - Let's connect! - [LinkedIn](https://www.linkedin.com/in/anna-mattingly/)
 
 <h4> Currently Coding: </h4>
