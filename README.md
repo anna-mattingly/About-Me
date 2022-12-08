@@ -1,7 +1,7 @@
 <h2> Hello! I'm Anna. </h2>
 <h3> A little bit about me... </h3>
 
-I'm a newly certified software developer with a particular interest in Apple Platforms - iOS/macOS. You'll find me contributing to Open Source here on Github, working on personal projects, riffling through [r/learnprogramming](https://www.reddit.com/r/learnprogramming/) finding something new to learn, reading articles at [Hacker News](https://news.ycombinator.com/), and frequenting coffee shops around Dallas.
+I'm a newly trained software developer with a particular interest in Apple Platforms - iOS/macOS. You'll find me taking a shot at contributing to Open Source here on Github, working on personal projects, riffling through [r/learnprogramming](https://www.reddit.com/r/learnprogramming/) finding something new to learn, reading articles at [Hacker News](https://news.ycombinator.com/), and frequenting coffee shops around Dallas.
 
 - Currently working on all things Apple - iOS/macOS
 - Learning anything I can get my hands on!
