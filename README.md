@@ -1,12 +1,12 @@
 <h2> Hello! I'm Anna. </h2>
 <h3> A little bit about me... </h3>
 
-I'm a newly trained software developer with a particular interest in Apple Platforms - iOS/macOS. You'll find me taking a shot at contributing to Open Source here on Github, working on personal projects, riffling through [r/learnprogramming](https://www.reddit.com/r/learnprogramming/) finding something new to learn, reading articles at [Hacker News](https://news.ycombinator.com/), and frequenting coffee shops around Dallas.
+I'm a newly trained software developer with a particular interest in Machine and Deep Learning. You'll find me collaborating and contributing here in Open Source, working on personal projects, riffling through [r/learnprogramming](https://www.reddit.com/r/learnprogramming/) finding something new to learn, reading articles at [Hacker News](https://news.ycombinator.com/), and frequenting coffee shops around north Dallas.
 
-- Currently working on all things Apple - iOS/macOS
+- Currently working on integration patterns and applications via web service APIs (REST)
 - Learning anything I can get my hands on!
 - Always looking to collaborate
-- Ask me about all things iOS
+- Ask me about all things Python
 - Let's connect! - [LinkedIn](https://www.linkedin.com/in/anna-mattingly/)
 
 <h4> Currently Coding: </h4>
