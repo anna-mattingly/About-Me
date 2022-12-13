@@ -42,6 +42,6 @@ I'm a newly trained software developer with a particular interest in Machine and
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna-mattingly&layout=compact&theme=prussian)](https://github.com/anna-mattingly/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna-mattingly&layout=compact&theme=default)](https://github.com/anna-mattingly/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anna-mattingly&show_icons=true&theme=prussian&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anna-mattingly&show_icons=true&theme=default&layout=compact)
