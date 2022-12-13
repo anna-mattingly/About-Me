@@ -29,7 +29,6 @@ I'm a newly trained software developer with a particular interest in Machine and
 
 <h4> Databases: </h4>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="25" height="25"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="25" height="25"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="25" height="25"/>
 </p>
