@@ -14,7 +14,7 @@ I'm a newly trained software developer with a particular interest in Machine and
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna-mattingly&layout=compact)](https://github.com/anna-mattingly/github-readme-stats)
 
-<h4> Currently Coding: </h4>
+<h3> Currently Coding: </h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -24,7 +24,7 @@ I'm a newly trained software developer with a particular interest in Machine and
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 </p>
 
-<h4> Tools + Technologies: </h4>
+<h3> Tools + Technologies: </h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
