@@ -9,6 +9,11 @@ I'm a newly trained software developer with a particular interest in Machine and
 - Ask me about all things Python
 - Let's connect! - [LinkedIn](https://www.linkedin.com/in/anna-mattingly/)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anna-mattingly&show_icons=true&theme=prussian)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna-mattingly&layout=compact)](https://github.com/anna-mattingly/github-readme-stats)
+
 <h4> Currently Coding: </h4>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="25" height="25"/>
