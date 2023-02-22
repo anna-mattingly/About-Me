@@ -1,7 +1,7 @@
 <h2> Hello! I'm Anna. </h2>
 <h3> A little bit about me... </h3>
 
-I'm a newly trained software developer with a particular interest in Machine and Deep Learning. You'll find me collaborating and contributing here in Open Source, working on personal projects, riffling through [r/learnprogramming](https://www.reddit.com/r/learnprogramming/) finding something new to learn, reading articles at [Hacker News](https://news.ycombinator.com/), and frequenting coffee shops around north Dallas.
+I'm an experienced software developer with a particular interest in Machine and Deep Learning. You'll find me collaborating and contributing here in Open Source, working on personal projects, riffling through [r/learnprogramming](https://www.reddit.com/r/learnprogramming/) finding something new to learn, reading articles at [Hacker News](https://news.ycombinator.com/), and frequenting coffee shops around north Dallas.
 
 - Currently working on integration patterns and applications via web service APIs (REST)
 - Learning anything I can get my hands on!
