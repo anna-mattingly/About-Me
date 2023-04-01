@@ -1,13 +1,15 @@
 <h2> Hello! I'm Anna. </h2>
 <h3> A little bit about me... </h3>
 
-I'm an experienced software developer with a particular interest in Machine and Deep Learning. You'll find me collaborating and contributing here in Open Source, working on personal projects, riffling through [r/learnprogramming](https://www.reddit.com/r/learnprogramming/) finding something new to learn, reading articles at [Hacker News](https://news.ycombinator.com/), and frequenting coffee shops around north Dallas.
+· Certified software developer with a particular focus in MSA APIs and ML 
+· Currently working on integration patterns and applications via web service APIs (REST)
+· Bachelor's Degree in DTC/Computer Science, Software Engineering and Business Marketing minors | 2019
+· Long-term goals in DL and Neural Networks 
+· Process design and results focused; to build growth and profitability
 
-- Currently working on integration patterns and applications via web service APIs (REST)
-- Learning anything I can get my hands on!
-- Always looking to collaborate
-- Ask me about all things Python
-- Let's connect! - [LinkedIn](https://www.linkedin.com/in/anna-mattingly/)
+A little bit about me... You'll likely find me collaborating and contributing here on Open Source, working on personal projects, riffling through reddit.com/r/learnprogramming, reading articles on Hacker News, and frequenting coffee shops around north Dallas.
+
+Let's connect! - [LinkedIn](https://www.linkedin.com/in/anna-mattingly/)
 
 <h4> Currently Coding: </h4>
 <p align="left">
