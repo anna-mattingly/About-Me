@@ -3,11 +3,11 @@
 
 - Certified software developer with a particular focus in MSA APIs and ML 
 - Currently working on integration patterns and applications via web service APIs (REST)
-- B.A. in DTC/Computer Science, Software Engineering and Business Marketing minors | 2019
+- Bachelor's Degree in DTC/Computer Science, Software Engineering and Business Marketing minors | 2019
 - Long-term goals in DL and Neural Networks 
-- Process design and results focused; to build growth and profitability
+- Focused on process design and results; building sustainable growth and profitability
 
-You'll likely find me collaborating and contributing here on Open Source, working on personal projects, riffling through reddit.com/r/learnprogramming, reading articles on Hacker News, and frequenting coffee shops around north Dallas.
+You'll likely find me collaborating and contributing here on open source, working on personal projects, riffling through reddit.com/r/learnprogramming, reading articles on Hacker News, and frequenting coffee shops around north Dallas.
 
 Let's connect! - [LinkedIn](https://www.linkedin.com/in/anna-mattingly/)
 
@@ -21,21 +21,21 @@ Let's connect! - [LinkedIn](https://www.linkedin.com/in/anna-mattingly/)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
 </p>
 
-<h4> Data Visualization + BI: </h4>
+<h4> Data Visualization + BI </h4>
 <p align="left">
 </p>
 
-<h4> OS: </h4>
+<h4> OS </h4>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" alt="unix" width="30" height="30"/>
 </p>
 
-<h4> Databases: </h4>
+<h4> Databases </h4>
 <p align="left">
 </p>
 
-<h4> Tools + Technologies: </h4>
+<h4> Tools </h4>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/>
