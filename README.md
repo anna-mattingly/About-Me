@@ -7,7 +7,7 @@
 - Long-term goals in DL and Neural Networks 
 - Focused on process design and results; building sustainable growth and profitability
 
-You'll likely find me collaborating and contributing here on open source, working on personal projects, riffling through reddit.com/r/learnprogramming, reading articles on Hacker News, and frequenting coffee shops around north Dallas.
+You'll likely find me collaborating and contributing here on open source, working on personal projects, riffling through [Reddit.com/r/learnprogramming](https://www.reddit.com/r/learnprogramming/), reading articles on Tech Stack or Hacker News, and frequenting coffee shops around north Dallas.
 
 Let's connect! - [LinkedIn](https://www.linkedin.com/in/anna-mattingly/)
 
@@ -25,7 +25,7 @@ Let's connect! - [LinkedIn](https://www.linkedin.com/in/anna-mattingly/)
 <p align="left">
 </p>
 
-<h4> OS </h4>
+<h4> OS: </h4>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" alt="unix" width="30" height="30"/>
@@ -35,7 +35,7 @@ Let's connect! - [LinkedIn](https://www.linkedin.com/in/anna-mattingly/)
 <p align="left">
 </p>
 
-<h4> Tools </h4>
+<h4> Tools: </h4>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/>
