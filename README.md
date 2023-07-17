@@ -3,7 +3,7 @@
 
 - Certified software developer with a particular focus in MSA APIs and ML 
 - Currently working on integration patterns and applications via web service APIs (REST)
-- Bachelor's Degree in DTC/Computer Science, Software Engineering and Business Marketing minors | 2019
+- Bachelor's Degree in Computer Science/DTC, Software Engineering and Business Marketing minors | 2019
 - Long-term goals in DL and Neural Networks 
 - Focused on process design and results; building sustainable growth and profitability
 
