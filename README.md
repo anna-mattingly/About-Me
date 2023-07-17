@@ -1,7 +1,7 @@
 <h2> Hello! I'm Anna. </h2>
 <h3> A little bit about me... </h3>
 
-- Certified software developer with a particular focus in MSA APIs and ML 
+- Software developer with a particular focus in MSA APIs and ML 
 - Currently working on integration patterns and applications via web service APIs (REST)
 - Bachelor's Degree in Computer Science/DTC, Software Engineering and Business Marketing minors | 2019
 - Long-term goals in DL and Neural Networks 
