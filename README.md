@@ -21,10 +21,6 @@ Let's connect! - [LinkedIn](https://www.linkedin.com/in/anna-mattingly/)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
 </p>
 
-<h4> Data Visualization + BI </h4>
-<p align="left">
-</p>
-
 <h4> OS: </h4>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
@@ -32,7 +28,7 @@ Let's connect! - [LinkedIn](https://www.linkedin.com/in/anna-mattingly/)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" alt="unix" width="30" height="30"/>
 </p>
 
-<h4> Databases </h4>
+<h4> Databases: </h4>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
@@ -44,6 +40,10 @@ Let's connect! - [LinkedIn](https://www.linkedin.com/in/anna-mattingly/)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="30" height="30"/>
+</p>
+
+<h4> Visualization: </h4>
+<p align="left">
 </p>
 
 <h4> Tools: </h4>
